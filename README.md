@@ -1,10 +1,13 @@
-# List of resources for Astronomy Data Science [![awesome][awesome-badge]][awesome-link]
+# Awesome AI for Scientific Research [![awesome][awesome-badge]][awesome-link]
 
 An [awesome list](https://github.com/sindresorhus/awesome) of resources for scientists wondering how to use LLMs in their research.  *Everyone* is invited to [contribute](CONTRIBUTING.md) by pull request.
 
 ## Table of Contents
 
 - [Policies](#Policies)
+- [Acknowledgement & Reproducibility](#Acknowledgement)
+- [AI Risk and Ethics](#AI)
+- [Copyright & Legal Issues](#Copyright)
 - [Papers](#Papers)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contribute](#contribute)
@@ -28,16 +31,46 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for scie
 
 - **[JWST / STScI Policy on Generative AI in Proposals](https://jwst-docs.stsci.edu/jwst-opportunities-and-policies/jwst-call-for-proposals-for-cycle-5/jwst-new-and-important-features)** – Allows generative AI use but requires explicit citation of AI-derived content (tool name, version, date, and usage description). Failure to disclose results in proposal disqualification.
 
-- **[DFG – Generative Models Guidelines](https://www.dfg.de/en/research-funding/principles-rules-good-practice/good-scientific-practice/guidelines-generative-models)** – Allows AI in grant proposals if disclosed and states AI use is evaluated “neither positive nor negative.” Prohibits AI use in preparing reviews.
+- **[Deutsche Forschungsgemeinschaft (DFG) – Generative Models Guidelines](https://www.dfg.de/en/research-funding/principles-rules-good-practice/good-scientific-practice/guidelines-generative-models)** – Core German research integrity framework emphasizing transparency, documentation, and responsibility in research. Allows AI in grant proposals if disclosed and states AI use is evaluated “neither positive nor negative.” Prohibits AI use in preparing reviews.
 
 - **[European Commission – Responsible Use of Generative AI in Research](https://research-and-innovation.ec.europa.eu/document/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en)** – Living guidelines defining when AI use in research (e.g., literature review, hypothesis development) counts as “substantial use” requiring disclosure.
 
-- **[OWID / Frisch FAQ on AI and Research Integrity](https://ombudsgremium.de/13262/faq-artificial-intelligence-and-research-integrity/?lang=en)** – Continuously updated overview of AI policies across publishers, funding agencies, peer review practices, copyright, and detection tools.
+- **[OWID / Frisch FAQ on AI and Research Integrity](https://ombudsgremium.de/13262/faq-artificial-intelligence-and-research-integrity/?lang=en)** – Continuously updated overview of AI policies across publishers, funding agencies, peer review practices, copyright, and detection tools. ⭐ an excellent FAQ with relevant resources ⭐
 
-### Acknowledgement
+- **[Elsevier – Generative AI Policies for Journals](https://www.elsevier.com/de-de/about/policies-and-standards/generative-ai-policies-for-journals)** – Publisher policy requiring disclosure of AI use and prohibiting AI authorship.
 
-### Reproducibility
+- **[Taylor & Francis – Artificial Intelligence Policy](https://taylorandfrancis.com/our-policies/ai-policy/)** – Publisher policy addressing AI authorship, disclosure requirements, and restrictions on AI-generated content.
 
+- **[Wiley – Artificial Intelligence Guidelines for Book Authors](https://www.wiley.com/en-us/publish/book/resources/ai-guidelines/)** – Detailed publisher guidance describing acceptable and prohibited uses of generative AI in scholarly books.
+
+- **[Frontiers – Artificial Intelligence: Fair Use and Disclosure Policy](https://www.frontiersin.org/guidelines/policies-and-publication-ethics)** – One of the few publisher policies explicitly allowing AI-generated images if their use is disclosed.
+
+
+### Acknowledgement & Reproducibility
+
+- **[Artificial Intelligence Disclosure (AID) Framework](https://crln.acrl.org/index.php/crlnews/article/view/26548)** – Framework proposing structured disclosure of AI use across research stages, inspired by the Contributor Roles Taxonomy (CRediT).
+
+- **[AI Attribution Toolkit](https://aiattribution.github.io/)** – Attribution system inspired by Creative Commons licensing that allows authors to specify the proportion and role of AI contributions.
+
+- **[American Psychological Association (APA) – How to Cite Generative AI](https://apastyle.apa.org/blog/cite-generative-ai-references)** – Citation guidance for referencing generative AI outputs in scholarly writing.
+
+- **[Chicago Manual of Style – Citing AI-Generated Content](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html)** – Style guide recommendations for documenting AI-generated material in academic publications.
+
+- **[Modern Language Association (MLA) – Citing Generative Artificial Intelligence](https://style.mla.org/citing-generative-ai-updated-revised/)** – MLA citation guidance for acknowledging AI-assisted writing.
+
+- **[Berlin Universities Publishing – Guideline for Dealing with Artificial Intelligence](https://www.berlin-universities-publishing.de/en/ueber-uns/policies/ki-leitlinie/index.html)** – Institutional policy with recommendations on disclosure and citation of AI tools in scholarly publications.
+
+## AI Risk and Ethics
+
+- **[AI Risk Repository](https://doi.org/10.48550/arXiv.2408.12622)** – Comprehensive meta-review and taxonomy cataloguing risks associated with artificial intelligence systems.
+
+## Copyright & Legal Issues
+
+- **[German Publishers and Booksellers Association – Generative Artificial Intelligence FAQ](https://www.boersenverein.de/beratung-service/recht/kuenstliche-intelligenz/)** – Overview of copyright and publishing law issues related to generative AI.
+
+- **[Creative Commons – Understanding CC Licenses and Artificial Intelligence Training](https://creativecommons.org/2025/05/15/understanding-cc-licenses-and-ai-training-a-legal-primer/)** – Legal overview explaining how Creative Commons licenses apply to the use of datasets in AI model training.
+
+- **[European Union Artificial Intelligence Act (EU AI Act)](https://artificialintelligenceact.eu/the-act/)** – European regulatory framework governing development, deployment, and risk classification of artificial intelligence systems.
 
 ### Papers
 
@@ -76,7 +109,10 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for scie
 
 ## Other Awesome Lists
 
-
+- [Awesome Artificial Intelligence Regulation](https://github.com/ethicalml/awesome-artificial-intelligence-regulation) – Policies, regulations, and ethical frameworks for AI governance.
+- [Awesome Responsible AI](https://github.com/AthenaCore/AwesomeResponsibleAI) – Resources on trustworthy and human-centered AI.
+- [Awesome AI Scientists](https://github.com/natnew/Awesome-AI-Scientists) – Resources on AI systems that assist scientific discovery.
+- [Awesome AI Ethics](https://github.com/awesomelistsio/awesome-ai-ethics) – Frameworks, research, and tools for responsible AI development.
 
 ## Contribute
 
