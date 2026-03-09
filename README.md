@@ -63,7 +63,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for scie
 
 ## Reproducibility
 
-Reproducibility is not a topic specific to LLMs in reserach. These materials live in a separate document [here](https://github.com/mpi-astronomy/awesome-llms-in-science/edit/main/reproducibility.md).
+Reproducibility is not a topic specific to LLMs in reserach. These materials live in a separate document [here](https://github.com/mpi-astronomy/awesome-llms-in-science/blob/main/reproducibility.md).
 
 ## AI Risk and Ethics
 
