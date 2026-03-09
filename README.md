@@ -5,7 +5,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for scie
 ## Table of Contents
 
 - [Policies](#policies)
-- [Acknowledgement & Reproducibility](#acknowledgement--reproducibility)
+- [Acknowledgement](#acknowledgement)
+- [Reproducibility](reproducibility)
 - [AI Risk and Ethics](#ai-risk-and-ethics)
 - [Copyright & Legal Issues](#copyright--legal-issues)
 - [Papers](#papers)
@@ -13,7 +14,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for scie
 - [Contribute](#contribute)
 - [License](#license)
 
-### Policies & Editorial Guidance
+## Policies & Editorial Guidance
 
 - **[AAS Journals](https://baas.aas.org/pub/2023i016)** – Editorial establishing that authors bear sole responsibility for manuscript content and that LLMs should be cited as software rather than listed as authors.
 
@@ -46,7 +47,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for scie
 - **[Frontiers – Artificial Intelligence: Fair Use and Disclosure Policy](https://www.frontiersin.org/guidelines/policies-and-publication-ethics)** – One of the few publisher policies explicitly allowing AI-generated images if their use is disclosed.
 
 
-### Acknowledgement & Reproducibility
+## Acknowledgement
 
 - **[Artificial Intelligence Disclosure (AID) Framework](https://crln.acrl.org/index.php/crlnews/article/view/26548)** – Framework proposing structured disclosure of AI use across research stages, inspired by the Contributor Roles Taxonomy (CRediT).
 
@@ -60,6 +61,42 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for scie
 
 - **[Berlin Universities Publishing – Guideline for Dealing with Artificial Intelligence](https://www.berlin-universities-publishing.de/en/ueber-uns/policies/ki-leitlinie/index.html)** – Institutional policy with recommendations on disclosure and citation of AI tools in scholarly publications.
 
+## Reproducibility
+
+### Standards & Principles
+
+- **[FAIR Principles for Research Software (FAIR4RS)](https://www.nature.com/articles/s41597-022-01710-x)** – Barker et al. (2022). Extension of the FAIR data principles specifically for research software, emphasizing discoverability, accessibility, interoperability, and reuse of scientific code.
+
+- **[Software Citation Principles](https://doi.org/10.7717/peerj-cs.86)** – Smith et al. (2016). Community consensus principles developed by FORCE11 recommending that research software be treated as a first-class scholarly output with persistent identifiers and formal citations.
+
+- **[Best Practices for Scientific Computing](https://doi.org/10.1371/journal.pbio.1001745)** – Wilson et al. (2014). Influential guide describing core software practices for research, including version control, modular code, automated testing, and documentation.
+
+### Journal & Publishing Policies
+
+- **[AAS Journals – Software Citation Guidance](https://journals.aas.org/software-citation/)** – American Astronomical Society (2020). Policy recommending formal citation of research software and encouraging public code repositories with versioning and DOIs.
+
+- **[Nature Research – Code Policy](https://www.nature.com/nature-research/editorial-policies/code-policy)** – Nature Portfolio (2018). Editorial policy requiring that custom code needed to reproduce results be made available to editors, reviewers, and readers.
+
+- **[Science Journals – Code and Data Availability Policy](https://www.science.org/content/page/science-journals-editorial-policies#code-and-data-availability)** – American Association for the Advancement of Science (AAAS) (2021). Requires authors to provide access to custom code necessary to reproduce published results.
+
+- **[Journal of Open Source Software (JOSS)](https://joss.theoj.org/)** – Smith et al. (2018). A peer-reviewed journal where research software itself is the primary scholarly output and is reviewed for usability, documentation, and reproducibility.
+
+### Reproducible Computational Workflows
+
+- **[The Turing Way – A Handbook for Reproducible Data Science](https://book.the-turing-way.org/)** – The Turing Way Community (2019–present). Community-driven guide covering reproducible research practices including version control, documentation, environment capture, and open collaboration.
+
+- **[Ten Simple Rules for Reproducible Computational Research](https://doi.org/10.1371/journal.pcbi.1003285)** – Sandve et al. (2013). Widely cited set of recommendations for ensuring computational reproducibility, including sharing code, recording dependencies, and automating workflows.
+
+- **[Ten Simple Rules for the Open Development of Scientific Software](https://doi.org/10.1371/journal.pcbi.1002802)** – Prlić & Procter (2012). Guidelines for collaborative and transparent development of scientific software.---
+
+## Infrastructure for Publishing Code
+
+- **[Zenodo – GitHub Integration for Software Archiving](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)** – European Organization for Nuclear Research (CERN) / OpenAIRE (2014–present). Service that archives GitHub releases and assigns DOIs for citation of research software.
+
+- **[Software Heritage](https://www.softwareheritage.org/)** – Di Cosmo & Zacchiroli (2017). Long-term archival infrastructure designed to preserve all publicly available source code and provide persistent identifiers.
+
+- **[Astrophysics Source Code Library (ASCL)](https://ascl.net/)** – Allen & Schmidt (2012). Registry of research codes used in astronomy that enables software indexing, citation, and discoverability in the literature.
+
 ## AI Risk and Ethics
 
 - **[AI Risk Repository](https://doi.org/10.48550/arXiv.2408.12622)** – Comprehensive meta-review and taxonomy cataloguing risks associated with artificial intelligence systems.
@@ -72,7 +109,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for scie
 
 - **[European Union Artificial Intelligence Act (EU AI Act)](https://artificialintelligenceact.eu/the-act/)** – European regulatory framework governing development, deployment, and risk classification of artificial intelligence systems.
 
-### Papers
+## Papers
 
 - **[Buck et al. (2026) – AI-Assisted Scientific Assessment: A Case Study on Climate Change](https://arxiv.org/abs/2602.09723)** – Controlled case study of AI-assisted scientific assessment in climate science demonstrating both productivity gains and the limits of AI (“What” vs. “So What”).
 
