@@ -6,7 +6,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for scie
 
 - [Policies](#policies)
 - [Acknowledgement](#acknowledgement)
-- [Reproducibility](reproducibility)
+- [Reproducibility](#reproducibility)
 - [AI Risk and Ethics](#ai-risk-and-ethics)
 - [Copyright & Legal Issues](#copyright--legal-issues)
 - [Papers](#papers)
@@ -80,7 +80,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for scie
 - **[Journal of Open Source Software (JOSS)](https://joss.theoj.org/)** –  A peer-reviewed journal where research software itself is the primary scholarly output and is reviewed for usability, documentation, and reproducibility.
 
 - **[PLOS Open Science Policies](https://plos.org/open-science-policies/)** – Publisher-wide policies promoting transparency and reproducibility, including requirements or encouragement for sharing data, code, and other research artifacts associated with publications.
-- 
+
 - **[PLOS Biology – Code Sharing Guidance](https://journals.plos.org/plosbiology/s/code-sharing-guidance)** – Editorial guidance stating that code underlying published results must be made publicly available upon publication. 
 
 ### Best Practices for Reproducible Workflows
