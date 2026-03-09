@@ -4,11 +4,11 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for scie
 
 ## Table of Contents
 
-- [Policies](#Policies)
-- [Acknowledgement & Reproducibility](#Acknowledgement)
-- [AI Risk and Ethics](#AI)
-- [Copyright & Legal Issues](#Copyright)
-- [Papers](#Papers)
+- [Policies](#policies)
+- [Acknowledgement & Reproducibility](#acknowledgement--reproducibility)
+- [AI Risk and Ethics](#ai-risk-and-ethics)
+- [Copyright & Legal Issues](#copyright--legal-issues)
+- [Papers](#papers)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contribute](#contribute)
 - [License](#license)
