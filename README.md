@@ -18,6 +18,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for scie
 
 - **[AAS Journals](https://baas.aas.org/pub/2023i016)** – Editorial establishing that authors bear sole responsibility for manuscript content and that LLMs should be cited as software rather than listed as authors.
 
+- **[A&A Statement](https://www.aanda.org/2008-press-releases/11-news/3200-a-a-publishes-statement-on-the-use-of-ai-assisted-technologies)**  on the use of artificial intelligence (AI)-assisted technologies by authors in the journal issued on June 18, 2026.
+
 - **[COPE – Committee on Publication Ethics](https://publicationethics.org/cope-position-statements/ai-author)** – 2023 position statement clarifying that AI tools cannot meet authorship criteria because they cannot take responsibility for submitted work. Recommends transparency and disclosure.
 
 - **[ICMJE – International Committee of Medical Journal Editors](https://www.icmje.org/recommendations/)** – Updated recommendations stating that AI-generated text does not qualify for authorship and that authors must disclose AI use and take responsibility for AI-assisted content.
